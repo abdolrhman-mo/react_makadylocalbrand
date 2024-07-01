@@ -1,0 +1,27 @@
+@use 'base'
+
+.cart-item
+    margin: 30px 0
+    img
+        width: 100%
+    .body
+        p
+            margin-bottom: 0
+        .counter
+            min-width: 100%
+            height: 40px
+            display: flex
+            justify-content: space-around
+            color: base.$font_color
+            background: base.$background_color
+            align-items: center
+            border: 1px solid base.$font_color
+            border-radius: 7px
+            text-align: center
+            span
+                cursor: pointer
+                width: 33%
+            span.decrement
+            span.number
+            span.increment
+        svg.trash-can
