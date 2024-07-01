@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react_makadylocalbrand/static/css/main.a0ab3b38.css",
+    "main.js": "/react_makadylocalbrand/static/js/main.e43b5ca0.js",
+    "static/js/453.671e3ceb.chunk.js": "/react_makadylocalbrand/static/js/453.671e3ceb.chunk.js",
+    "static/media/hero.jpeg": "/react_makadylocalbrand/static/media/hero.d4960397c36720c8de61.jpeg",
+    "static/media/DarkerGrotesque-VariableFont_wght.ttf": "/react_makadylocalbrand/static/media/DarkerGrotesque-VariableFont_wght.6c4255c4716e8037736e.ttf",
+    "static/media/tshirt5.webp": "/react_makadylocalbrand/static/media/tshirt5.9e6c76e4e16e4933a8e0.webp",
+    "static/media/tshirt6.webp": "/react_makadylocalbrand/static/media/tshirt6.ee0b57b788f8e06875b9.webp",
+    "static/media/tshirt8.webp": "/react_makadylocalbrand/static/media/tshirt8.74f8be3b4c337343a4c2.webp",
+    "static/media/tshirt7.webp": "/react_makadylocalbrand/static/media/tshirt7.5a97cc01b21e5bd05b43.webp",
+    "static/media/tshirt4.webp": "/react_makadylocalbrand/static/media/tshirt4.a76fc37edad7c16aa7e8.webp",
+    "static/media/tshirt3.webp": "/react_makadylocalbrand/static/media/tshirt3.40c4d1d9a923ca102063.webp",
+    "static/media/shorts4.webp": "/react_makadylocalbrand/static/media/shorts4.e88311c38999f7c5bad1.webp",
+    "static/media/tshirt1.webp": "/react_makadylocalbrand/static/media/tshirt1.affc09f4f6996c97f2b1.webp",
+    "static/media/shorts3.webp": "/react_makadylocalbrand/static/media/shorts3.59ce3adb4a5b6cbdc752.webp",
+    "static/media/tshirt2.webp": "/react_makadylocalbrand/static/media/tshirt2.e5ae5475a0b0ba23fb41.webp",
+    "static/media/pants3.webp": "/react_makadylocalbrand/static/media/pants3.d3b5252920e2fac56437.webp",
+    "static/media/shorts1.webp": "/react_makadylocalbrand/static/media/shorts1.1517b8958158a0c5752b.webp",
+    "static/media/shorts5.webp": "/react_makadylocalbrand/static/media/shorts5.ec305effa545905a3222.webp",
+    "static/media/shorts2.webp": "/react_makadylocalbrand/static/media/shorts2.2521cca1cc9b7470f79e.webp",
+    "static/media/shorts6.webp": "/react_makadylocalbrand/static/media/shorts6.fd2fa2df12a246d7dcb5.webp",
+    "static/media/pants2.webp": "/react_makadylocalbrand/static/media/pants2.a1a20f5929421aa89a5a.webp",
+    "static/media/pants1.webp": "/react_makadylocalbrand/static/media/pants1.af6a12b22c7aa4dbb3ae.webp",
+    "index.html": "/react_makadylocalbrand/index.html",
+    "main.a0ab3b38.css.map": "/react_makadylocalbrand/static/css/main.a0ab3b38.css.map",
+    "main.e43b5ca0.js.map": "/react_makadylocalbrand/static/js/main.e43b5ca0.js.map",
+    "453.671e3ceb.chunk.js.map": "/react_makadylocalbrand/static/js/453.671e3ceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ab3b38.css",
+    "static/js/main.e43b5ca0.js"
+  ]
+}
